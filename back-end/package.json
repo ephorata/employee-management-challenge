@@ -1,0 +1,17 @@
+{
+  "name": "addis-software-challenge",
+  "version": "1.0.0",
+  "description": "a test project for addis software solutions",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Ephrata Nebiyu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "http-status-codes": "^2.2.0",
+    "mongoose": "^6.7.3"
+  }
+}
