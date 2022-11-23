@@ -1,6 +1,6 @@
-# employee-management-challenge
+# Employee-management-challenge
 full stack challenge 
-## the project is built using the following 
+## The project is built using the following 
  * typescript 
  * react 
  * express
